@@ -1,0 +1,3403 @@
+{
+  "type": "FeatureCollection",
+  "crs": {
+    "type": "name",
+    "properties": {
+      "name": "California Whitewater Runs"
+    }
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork American",
+        "difficulty": "Class IV+ - V",
+        "run name": "Generation Gap",
+        "link": "http://caliproduct.blogspot.com/2007/03/generation-gap.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.642441,
+          39.179535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork American",
+        "difficulty": "Class IV+",
+        "run name": "Giant Gap",
+        "link": "http://awetstate.com/NAmericanGG.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.761322,
+          39.185493
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork American",
+        "difficulty": "Class IV",
+        "run name": "Chamberlain Falls",
+        "link": "http://awetstate.com/NAmericanC.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.924774,
+          39.100426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork American",
+        "difficulty": "Class II+",
+        "run name": "Ponderossa Way",
+        "link": "http://www.awetstate.com/NAmericanP.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.902588,
+          39.040684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Middle Fork American",
+        "difficulty": "",
+        "run name": "",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.655037,
+          39.102146
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Middle Fork American",
+        "difficulty": "",
+        "run name": "End of the World",
+        "link": "http://www.awetstate.com/MAmericanEW.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.604446,
+          39.026955
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Middle Fork American",
+        "difficulty": "Class IV+",
+        "run name": "Tunnel Chute",
+        "link": "http://awetstate.com/MAmericanT.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.746819,
+          39.00684
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Middle Silver Fork American",
+        "difficulty": "",
+        "run name": "",
+        "link": "http://www.awetstate.com/SiAmericanM.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.242035,
+          38.730461
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Fork American",
+        "difficulty": "",
+        "run name": "Lovers Leap",
+        "link": "http://www.awetstate.com/SAmericanLL.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.184746,
+          38.786457
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Fork American",
+        "difficulty": "Class IV",
+        "run name": "Kyburz",
+        "link": "http://awetstate.com/SAmericanK.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.330833,
+          38.763138
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Fork American",
+        "difficulty": "Class IV",
+        "run name": "Riverton to Peavine",
+        "link": "http://awetstate.com/SAmericanRP.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.448242,
+          38.770718
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Fork American",
+        "difficulty": "Class V to V+",
+        "run name": "Golden Gate",
+        "link": "http://www.awetstate.com/SAmericanGG.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.497803,
+          38.768642
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Fork American",
+        "difficulty": "",
+        "run name": "Slab Creek",
+        "link": "http://www.awetstate.com/SAmericanSC.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.702408,
+          38.772118
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Fork American",
+        "difficulty": "Class III",
+        "run name": "Chili Bar",
+        "link": "http://awetstate.com/SAmericanC.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.823402,
+          38.766186
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Fork American",
+        "difficulty": "Class II+",
+        "run name": "Coloma to Greenwood",
+        "link": "http://www.awetstate.com/SAmericanCG.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.892944,
+          38.804607
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Fork American",
+        "difficulty": "Class III to III+",
+        "run name": "Gorge",
+        "link": "http://awetstate.com/SAmericanG.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.945915,
+          38.82423
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "American River",
+        "difficulty": "",
+        "run name": "G-Wave",
+        "link": "http://www.awetstate.com/AmericanGW.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.039642,
+          38.915989
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Battle Creek",
+        "difficulty": "",
+        "run name": "",
+        "link": "http://www.awetstate.com/BattleCreek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.980324,
+          40.405785
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Bear Creek",
+        "difficulty": "Class IV",
+        "run name": "",
+        "link": "http://awetstate.com/BearCreek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.355255,
+          39.001133
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Bear River",
+        "difficulty": "Class IV+",
+        "run name": "",
+        "link": "http://www.awetstate.com/Bear.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.958954,
+          39.131699
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Upper Big Sulphur Creek",
+        "difficulty": "",
+        "run name": "",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.802376,
+          38.797802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Lower Big Sulphur Creek",
+        "difficulty": "",
+        "run name": "",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.88369,
+          38.823551
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Bluff Creek",
+        "difficulty": "",
+        "run name": "",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.72406,
+          41.36552
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Brandy Creek",
+        "difficulty": "",
+        "run name": "",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.602745,
+          40.596966
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Bridge Creek",
+        "difficulty": "Class V-V+",
+        "run name": "",
+        "link": "http://darinm.blogspot.com/2006/06/bridge-creek-v-v-wooley-creek-trib.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.359344,
+          41.472401
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Upper Brush Creek",
+        "difficulty": "Class V",
+        "run name": "",
+        "link": "http://www.awetstate.com/BrushCreekU.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.42337,
+          35.966164
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Lower Brush Creek",
+        "difficulty": "Class IV-V",
+        "run name": "",
+        "link": "http://awetstate.com/BrushCreek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.465172,
+          35.971043
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Upper Butte Creek",
+        "difficulty": "",
+        "run name": "",
+        "link": "http://www.awetstate.com/ButteCreekU.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.63398,
+          39.866497
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Cache Creek",
+        "difficulty": "Class II+ to III",
+        "run name": "",
+        "link": "http://awetstate.com/CacheCreek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.333511,
+          38.926582
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Canyon Creek",
+        "difficulty": "Class IV- to IV+",
+        "run name": "",
+        "link": "http://awetstate.com/CanyonCreekT.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.057564,
+          40.782909
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Canyon Creek",
+        "difficulty": "Class IV+ to V-",
+        "run name": "Arctic Mine",
+        "link": "http://www.awetstate.com/CanyonCreekAM.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.73027,
+          39.372509
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Fork Yuba",
+        "difficulty": "Class IV-V",
+        "run name": "Canyon Creek",
+        "link": "http://www.awetstate.com/CanyonCreekY.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.5429,
+          39.420811
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Upper Cherry Creek",
+        "difficulty": "",
+        "run name": "",
+        "link": "http://www.awetstate.com/CherryCreekU.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.79924,
+          38.096462
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Upper Clavey",
+        "difficulty": "Class IV-V",
+        "run name": "",
+        "link": "http://www.awetstate.com/ClaveyU.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.053566,
+          37.985748
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Upper Clear Creek",
+        "difficulty": "Class IV-V",
+        "run name": "",
+        "link": "http://darinm.blogspot.com/2005/09/clear-creek-klamath-drainage-gearing.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.545868,
+          41.735798
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Clear Creek",
+        "difficulty": "Class IV",
+        "run name": "",
+        "link": "http://awetstate.com/ClearCreek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.538795,
+          40.579491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Clover Creek",
+        "difficulty": "Class IV-V",
+        "run name": "",
+        "link": "http://huckinhuge.com/RMP_Memorial_Movie.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.751778,
+          36.62476
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Coffee Creek",
+        "difficulty": "Class IV",
+        "run name": "",
+        "link": "http://awetstate.com/CoffeeCreek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.816887,
+          41.121136
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Upper Main Cosumnes",
+        "difficulty": "Class IV",
+        "run name": "",
+        "link": "http://awetstate.com/CosU.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.847809,
+          38.553799
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Upper Middle Cosumnes",
+        "difficulty": "Class V-V+",
+        "run name": "",
+        "link": "http://www.awetstate.com/MCosumnesU.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.562691,
+          38.589119
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Middle Cosumnes",
+        "difficulty": "Class IV",
+        "run name": "",
+        "link": "http://awetstate.com/MCos.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.754456,
+          38.612453
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Upper North Fork Cottonwood Creek",
+        "difficulty": "Class IV-IV+",
+        "run name": "",
+        "link": "http://darinm.blogspot.com/2007/03/north-fork-cottonwood-creek-upper-iv-iv.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.705658,
+          40.474754
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Crapo Creek",
+        "difficulty": "Class V",
+        "run name": "",
+        "link": "http://darinm.blogspot.com/2006/05/crapo-creek-v-cal-salmon-trib-before.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.302338,
+          41.311577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Lower Deer Creek",
+        "difficulty": "Class IV+",
+        "run name": "",
+        "link": "http://awetstate.com/DeerCreekL.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.704628,
+          40.070305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Deer Creek (Nevada City)",
+        "difficulty": "",
+        "run name": "",
+        "link": "http://www.awetstate.com/DeerCreekNC.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.019493,
+          39.260853
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Deer Creek",
+        "difficulty": "",
+        "run name": "Below Wildwood",
+        "link": "http://www.awetstate.com/DeerCreekW.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.229515,
+          39.232769
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Diamond Creek",
+        "difficulty": "",
+        "run name": "",
+        "link": "http://www.awetstate.com/DiamondCreek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.906593,
+          41.977585
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Dinkey Creek",
+        "difficulty": "",
+        "run name": "Superdink",
+        "link": "http://www.awetstate.com/DinkeyCreekSD.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.138382,
+          37.111675
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Dinkey Creek",
+        "difficulty": "",
+        "run name": "Cherry Bomb",
+        "link": "http://www.awetstate.com/DinkeyCreekCB.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.153786,
+          37.067196
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Dinkey Creek",
+        "difficulty": "",
+        "run name": "Waterfalls",
+        "link": "http://www.awetstate.com/DinkeyCreekW.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.124588,
+          36.964622
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Lower Dinkey Creek",
+        "difficulty": "",
+        "run name": "",
+        "link": "http://www.awetstate.com/DinkeyCreekL.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.133247,
+          36.922794
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Upper Eel",
+        "difficulty": "Class IV-V",
+        "run name": "",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.851517,
+          39.525452
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Eel",
+        "difficulty": "Class II-III",
+        "run name": "Dos Rios to Alderpoint",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.348663,
+          39.713776
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Eel",
+        "difficulty": "Class IV- at 4-5K",
+        "run name": "Pillsbury",
+        "link": "http://awetstate.com/EelPills.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.978699,
+          39.410259
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Eel",
+        "difficulty": "Class IV",
+        "run name": "Ten-Mile Creek",
+        "link": "http://www.awetstate.com/SEelTMC.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.542107,
+          39.762283
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Middle Eel",
+        "difficulty": "Class IV-IV+",
+        "run name": "",
+        "link": "http://caliproduct.blogspot.com/2007/02/middle-fork-eel.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.085442,
+          39.827343
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "West Branch Feather River",
+        "difficulty": "Class IV-V",
+        "run name": "Naked Lady",
+        "link": "http://www.awetstate.com/WFeatherNL.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.567841,
+          39.82708
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Elk Creek",
+        "difficulty": "",
+        "run name": "Sulpher Springs",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.332359,
+          41.666393
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "East Branch North Fork Feather",
+        "difficulty": "Class IV to IV+",
+        "run name": "Virgilia to Belden",
+        "link": "http://awetstate.com/NFeatherEBV.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.139557,
+          40.026329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Feather",
+        "difficulty": "Class II+ (III+)",
+        "run name": "Rock Creek",
+        "link": "http://www.awetstate.com/NFeatherRC.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.281349,
+          39.982567
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Feather",
+        "difficulty": "Class V-",
+        "run name": "Tobin",
+        "link": "http://awetstate.com/NFeatherT.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.308746,
+          39.93988
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Feather",
+        "difficulty": "Class IV",
+        "run name": "Lobin",
+        "link": "http://awetstate.com/NFeatherL.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.315994,
+          39.925835
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Feather",
+        "difficulty": "Class IV-",
+        "run name": "Cresta",
+        "link": "http://awetstate.com/NFeatherC.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.373711,
+          39.874836
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Feather",
+        "difficulty": "Class IV",
+        "run name": "Big Bend Dam",
+        "link": "http://www.awetstate.com/NFeatherBBD.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.470581,
+          39.723015
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Upper South Branch Middle Fork Feather",
+        "difficulty": "",
+        "run name": "",
+        "link": "http://www.awetstate.com/MFeatherSB.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.193993,
+          39.709763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Middle Fork Feather",
+        "difficulty": "Class V-V+",
+        "run name": "Bald Rock Canyon",
+        "link": "http://darinm.blogspot.com/2007/04/middle-fork-feather-bald-rock-canyon-v.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.271446,
+          39.709625
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Fork Feather",
+        "difficulty": "Class IV to V",
+        "run name": "",
+        "link": "http://awetstate.com/SFeatherLGV.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.021095,
+          39.724083
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Fordyce Creek",
+        "difficulty": "",
+        "run name": "",
+        "link": "http://www.awetstate.com/FordyceCreek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.498756,
+          39.380142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Lower Goose Creek",
+        "difficulty": "",
+        "run name": "",
+        "link": "http://www.awetstate.com/GooseCreekL.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.905975,
+          41.647491
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Hardscrabble Creek",
+        "difficulty": "Class V",
+        "run name": "",
+        "link": "http://caliproduct.blogspot.com/2006/12/hardscrabble-creek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.011833,
+          41.864929
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Upper Hayfork Creek",
+        "difficulty": "Class III+ to IV",
+        "run name": "",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.057137,
+          40.43058
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Lower Hayfork Creek",
+        "difficulty": "",
+        "run name": "",
+        "link": "http://www.awetstate.com/HayforkCreekL.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.279366,
+          40.594803
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Indian Creek (Feather)",
+        "difficulty": "Class IV",
+        "run name": "",
+        "link": "http://awetstate.com/IndianCreekF.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.961174,
+          40.059372
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Indian Creek (Klamath)",
+        "difficulty": "Class III",
+        "run name": "",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.429115,
+          41.882774
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Upper North Kaweah",
+        "difficulty": "Class IV+",
+        "run name": "",
+        "link": "http://www.awetstate.com/NKaweahU.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.901619,
+          36.587093
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Lower North Kaweah",
+        "difficulty": "Class IV to V-",
+        "run name": "",
+        "link": "http://www.awetstate.com/NKaweahL.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.89666,
+          36.544121
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Middle Fork Kaweah",
+        "difficulty": "Class V-V+",
+        "run name": "Hospital Rock",
+        "link": "http://huckinhuge.com/movie_rmpmemorial.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.771461,
+          36.520142
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Middle Fork Kaweah",
+        "difficulty": "Class IV- to IV+",
+        "run name": "Gateway",
+        "link": "http://www.awetstate.com/MKaweahG.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.839485,
+          36.479279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "East Fork Kaweah",
+        "difficulty": "Class V+",
+        "run name": "",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.793251,
+          36.449379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork of the Kern",
+        "difficulty": "Class IV-V",
+        "run name": "Forks of the Kern",
+        "link": "http://www.awetstate.com/NKernFK.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.43763,
+          36.13353
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Kern",
+        "difficulty": "Class IV-V",
+        "run name": "Salmon Falls",
+        "link": "http://www.awetstate.com/NKernSF.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.471962,
+          35.901596
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Kern",
+        "difficulty": "Class II",
+        "run name": "Fairview",
+        "link": "http://cacreeks.com/kern-nf.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.479691,
+          35.944031
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Kern", 
+        "difficulty": "Class III+",
+        "run name": "Limestone,",
+        "link": "http://www.awetstate.com/NKernL.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.486702,
+          35.968704
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Kern",
+        "difficulty": "Class III-IV",
+        "run name": "Chamise",
+        "link": "http://awetstate.com/KernCh.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.492142,
+          35.918442
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Kern",
+        "difficulty": "Class IV",
+        "run name": "Ant Canyon",
+        "link": "http://awetstate.com/KernAC.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.458916,
+          35.885143
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Kern",
+        "difficulty": "Class IV-V",
+        "run name": "Thunder",
+        "link": "http://awetstate.com/KernTh.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.450768,
+          35.856007
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Kern",
+        "difficulty": "Class III-IV",
+        "run name": "Cables",
+        "link": "http://awetstate.com/KernCa.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.458069,
+          35.815739
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Kern",
+        "difficulty": "Class II+ - III",
+        "run name": "Kernville",
+        "link": "http://awetstate.com/KernKern.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.435455,
+          35.774921
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Kern",
+        "difficulty": "",
+        "run name": "Slippery Rock",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.484413,
+          35.639053
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Kern",
+        "difficulty": "",
+        "run name": "Miracle to Democrat",
+        "link": "http://www.awetstate.com/KernMD.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.532349,
+          35.576008
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Kern",
+        "difficulty": "Class IV-",
+        "run name": "Miracle To Democrat",
+        "link": "http://www.awetstate.com/KernMD.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.616653,
+          35.547882
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Kern",
+        "difficulty": "Class II",
+        "run name": "Rancheria",
+        "link": "http://cacreeks.com/kern-val.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.826012,
+          35.427444
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Upper Kidder Creek",
+        "difficulty": "Class V",
+        "run name": "",
+        "link": "http://darinm.blogspot.com/2006/04/kidder-creek-upper-v-scott-river.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.066223,
+          41.513195
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Kidder Creek",
+        "difficulty": "Class IV-IV+",
+        "run name": "",
+        "link": "http://darinm.blogspot.com/2006/05/kidder-creek-photo-update-51806.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.01516,
+          41.50499
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Klamath",
+        "difficulty": "",
+        "run name": "Hell's Corner Frain Ranch",
+        "link": "http://www.awetstate.com/KlamathHC.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.101089,
+          42.0271
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Klamath",
+        "difficulty": "",
+        "run name": "Happy Camp",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.392731,
+          41.785809
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Klamath",
+        "difficulty": "Class III+ to IV+",
+        "run name": "Ikes Falls",
+        "link": "http://www.awetstate.com/KlamathIF.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.494118,
+          41.377628
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Klamath River",
+        "difficulty": "",
+        "run name": "Orleans to Weitchpec",
+        "link": "http://www.awetstate.com/KlamathO.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.571564,
+          41.28458
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Lavezolla Creek",
+        "difficulty": "Class IV",
+        "run name": "",
+        "link": "http://awetstate.com/LavezollaCreek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.796318,
+          39.597942
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Mad River",
+        "difficulty": "",
+        "run name": "Swinging Bridge",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.837723,
+          40.66267
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Mark West Creek",
+        "difficulty": "Class IV",
+        "run name": "",
+        "link": "http://awetstate.com/MarkWestCreek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.719498,
+          38.549564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "McCloud",
+        "difficulty": "Class III - IV",
+        "run name": "Wyntoon",
+        "link": "http://awetstate.com/McCloudW.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.025177,
+          41.241791
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "McCloud",
+        "difficulty": "Class IV+",
+        "run name": "Ash Camp",
+        "link": "http://www.awetstate.com/McCloudA.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.061356,
+          41.116577
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Lower McCloud",
+        "difficulty": "Class III to IV",
+        "run name": "",
+        "link": "http://www.awetstate.com/McCloudA.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.098358,
+          41.109226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Mears",
+        "difficulty": "Class IV",
+        "run name": "",
+        "link": "http://darinm.blogspot.com/2005/08/mears-creek-this-little-beauty-runs.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.370003,
+          41.082912
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Merced",
+        "difficulty": "Class IV",
+        "run name": "RedBud",
+        "link": "http://awetstate.com/Merced.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.818382,
+          37.669598
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Merced",
+        "difficulty": "Class IV",
+        "run name": "Indian Flat",
+        "link": "http://awetstate.com/Merced.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.846397,
+          37.662086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Merced",
+        "difficulty": "Class IV",
+        "run name": "140 Bridge",
+        "link": "http://awetstate.com/Merced.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.792526,
+          37.67131
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Lower South Fork Merced",
+        "difficulty": "Class III+ to IV",
+        "run name": "",
+        "link": "http://www.awetstate.com/SMercedL.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.822151,
+          37.61071
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Upper Mill Creek",
+        "difficulty": "",
+        "run name": "",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.531029,
+          40.318432
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Lower Mill Creek",
+        "difficulty": "Class IV to V",
+        "run name": "",
+        "link": "http://darinm.blogspot.com/2005/06/lower-mill-creek-thanks-to-unusually.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.711487,
+          40.183441
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Mokelumne",
+        "difficulty": "Class III+ to V",
+        "run name": "Devil's Nose",
+        "link": "http://www.awetstate.com/NMokDN.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.270599,
+          38.477448
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Mokelumne",
+        "difficulty": "Class III to IV",
+        "run name": "Below Tiger Creek",
+        "link": "http://www.awetstate.com/NMokTC.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.504929,
+          38.439426
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Mokelumne",
+        "difficulty": "Class II",
+        "run name": "Electra",
+        "link": "http://www.awetstate.com/MokE.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.677269,
+          38.328354
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Mokelumne",
+        "difficulty": "Class II+",
+        "run name": "Middle Bar",
+        "link": "http://www.awetstate.com/MokE.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.720093,
+          38.312981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Upper New River",
+        "difficulty": "Class IV+",
+        "run name": "",
+        "link": "http://awetstate.com/NewU.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.348343,
+          40.962845
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Middle New River",
+        "difficulty": "Class III-IV",
+        "run name": "",
+        "link": "http://www.awetstate.com/NewM.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.38385,
+          40.946182
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "New River",
+        "difficulty": "",
+        "run name": "Gorge",
+        "link": "http://darinm.blogspot.com/2007/01/new-river-gorge-trinity-river-iv-v-by.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.426453,
+          40.90715
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Pauley Creek",
+        "difficulty": "Class IV+",
+        "run name": "",
+        "link": "http://awetstate.com/PauleyCreek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.797501,
+          39.593899
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Patterson Creek",
+        "difficulty": "Class V-V+",
+        "run name": "",
+        "link": "http://darinm.blogspot.com/2006/05/patterson-creek-v-take-2-scott-river.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.976898,
+          41.489964
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Pine Creek",
+        "difficulty": "Class V-",
+        "run name": "",
+        "link": "http://www.caliproduct.com/calisite.webpage/Templates/RUNS/pinecreek.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.785728,
+          41.147251
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Pitt",
+        "difficulty": "Class IV-",
+        "run name": "Pitt Falls",
+        "link": "http://awetstate.com/PitFalls.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.446342,
+          40.982651
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Pitt ",
+        "difficulty": "Class III+ to IV- (IV+)",
+        "run name": "Pitt 4",
+        "link": "http://www.awetstate.com/Pitt4.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.769905,
+          40.987682
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Pitt",
+        "difficulty": "Class IV-IV+",
+        "run name": "Upper Pitt 5",
+        "link": "http://www.awetstate.com/Pitt5Upper.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.870041,
+          40.993534
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Pitt",
+        "difficulty": "Class III-",
+        "run name": "Lower Pitt 5",
+        "link": "http://www.awetstate.com/Pitt5Lower.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.910782,
+          41.020489
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Upper Putah Creek",
+        "difficulty": "Class IV to V-",
+        "run name": "",
+        "link": "http://www.awetstate.com/PutahCreekU.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.566872,
+          38.79084
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Rattlesnake Creek",
+        "difficulty": "",
+        "run name": "",
+        "link": "http://www.awetstate.com/RattlesnakeCreek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.576836,
+          39.827652
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Redwood Creek",
+        "difficulty": "",
+        "run name": "Lack's Creek",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.873764,
+          41.061329
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Lower Rubicon",
+        "difficulty": "",
+        "run name": "",
+        "link": "http://www.awetstate.com/Rubicon:.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.486374,
+          38.95734
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Russian River",
+        "difficulty": "Class I-III",
+        "run name": "Squaw Rock",
+        "link": "http://awetstate.com/RussianSR.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.059044,
+          38.920986
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Sacramento",
+        "difficulty": "Class IV",
+        "run name": "Box Canyon",
+        "link": "http://awetstate.com/SacBox.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.327026,
+          41.279152
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Sacramento",
+        "difficulty": "Class II+",
+        "run name": "Dunsmuir",
+        "link": "http://awetstate.com/SacDuns.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.274803,
+          41.220379
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Sacramento",
+        "difficulty": "Class IV-",
+        "run name": "Mear's Falls",
+        "link": "http://awetstate.com/SacCas.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.293724,
+          41.161301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Sacramento",
+        "difficulty": "Class III",
+        "run name": "Sims Flat",
+        "link": "http://awetstate.com/SacSims.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.359657,
+          41.064503
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Salmon",
+        "difficulty": "Class III+ to IV",
+        "run name": "Upper",
+        "link": "http://www.awetstate.com/NSalmonU.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.074303,
+          41.358032
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Salmon",
+        "difficulty": "Class III+ to IV",
+        "run name": "Upper Alternate",
+        "link": "http://www.awetstate.com/NSalmonU.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.08075,
+          41.299088
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Salmon",
+        "difficulty": "",
+        "run name": "Lower",
+        "link": "http://www.awetstate.com/NSalmonL.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.190697,
+          41.313042
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Fork Salmon",
+        "difficulty": "",
+        "run name": "Gorge",
+        "link": "http://www.awetstate.com/SSalmonG.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.183708,
+          41.142735
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Salmon",
+        "difficulty": "Class IV (-V)",
+        "run name": "Nordheimer",
+        "link": "http://darinm.blogspot.com/2005/09/cal-salmon-this-is-one-of-my-other-all.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.362968,
+          41.300846
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Salmon",
+        "difficulty": "Class IV",
+        "run name": "Butler's Flat",
+        "link": "http://awetstate.com/SalmonB.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.408371,
+          41.337299
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "San Joaquin",
+        "difficulty": "",
+        "run name": "Tied for First",
+        "link": "http://www.awetstate.com/SanJoaquinTFF.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.321327,
+          37.320866
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "San Joaquin",
+        "difficulty": "",
+        "run name": "Horseshoe Bend",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.452789,
+          37.144703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "San Lorenzo",
+        "difficulty": "Class III-IV",
+        "run name": "",
+        "link": "http://awetstate.com/SanLorenzo.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.072037,
+          37.043896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Scott River",
+        "difficulty": "Class IV-V",
+        "run name": "",
+        "link": "http://darinm.blogspot.com/2006/12/scott-river-iv-v-scott-river-has-been.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.104393,
+          41.634609
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Fork Silver",
+        "difficulty": "Class IV",
+        "run name": "",
+        "link": "http://awetstate.com/SSilver.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.299522,
+          38.824974
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Fork Silver",
+        "difficulty": "Class IV",
+        "run name": "Ice House",
+        "link": "http://awetstate.com/SSilverIH.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.360916,
+          38.822243
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Silver Creek",
+        "difficulty": "",
+        "run name": "",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.537666,
+          38.827702
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Slate Creek",
+        "difficulty": "",
+        "run name": "",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.479332,
+          40.98386
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Smith",
+        "difficulty": "Class IV-IV+",
+        "run name": "Oregon Hole Gorge",
+        "link": "http://awetstate.com/SmithOG.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.014473,
+          41.841862
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Smith",
+        "difficulty": "Class IV-IV+",
+        "run name": "Lower",
+        "link": "http://awetstate.com/NSmith.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.960129,
+          41.981758
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Middle Fork Smith",
+        "difficulty": "",
+        "run name": "Knopki Bridge",
+        "link": "http://www.awetstate.com/MSmithKB.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.752342,
+          41.92305
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Middle Fork Smith",
+        "difficulty": "Class IV+ to V-",
+        "run name": "Siskiyou Gorge",
+        "link": "http://www.awetstate.com/MSmithSG.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.830978,
+          41.868896
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Middle Fork Smith",
+        "difficulty": "Class IV-",
+        "run name": "Patrick's Creek",
+        "link": "http://awetstate.com/MSmithP.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.843552,
+          41.874279
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Fork Smith",
+        "difficulty": "",
+        "run name": "Kelsey Trail",
+        "link": "http://www.awetstate.com/SSmithKT.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.86071,
+          41.651958
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Fork Smith",
+        "difficulty": "Class III-IV",
+        "run name": "Lower",
+        "link": "http://www.awetstate.com/SSmithL.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.930321,
+          41.693703
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Fork Smith",
+        "difficulty": "Class IV+",
+        "run name": "South Fork Gorge",
+        "link": "http://www.awetstate.com/SSmithSFG.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -124.026772,
+          41.793449
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Squaw Valley Creek",
+        "difficulty": "Class IV",
+        "run name": "",
+        "link": "http://www.awetstate.com/SquawValleyCreek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.170006,
+          41.143234
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Squirrel Creek",
+        "difficulty": "",
+        "run name": "",
+        "link": "http://www.awetstate.com/SquirrelCreek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.202194,
+          39.210571
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Stanislaus",
+        "difficulty": "Class V+",
+        "run name": "Hell's Kitchen (Highland Creek)",
+        "link": "http://www.caliproduct.com/calisite.webpage/Templates/RUNS/helldescr.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.090134,
+          38.403763
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Stanislaus",
+        "difficulty": "Class IV to V-",
+        "run name": "Boards Crossing Run",
+        "link": "http://www.awetstate.com/NStanBC.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.217445,
+          38.321823
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Stanislaus",
+        "difficulty": "Class V+",
+        "run name": "Hell's Kitchen",
+        "link": "http://darinm.blogspot.com/2006/09/north-fork-stanislaus-hells-kitchen-v.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.080551,
+          38.410564
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Middle Fork Stanislaus",
+        "difficulty": "Class IV-V",
+        "run name": "Dardanelles",
+        "link": "http://www.awetstate.com/MStanDa.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.753952,
+          38.324535
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Middle Fork Stanislaus",
+        "difficulty": "Class IV-V",
+        "run name": "Donnells",
+        "link": "http://www.awetstate.com/MStanDo.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.86972,
+          38.360973
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Middle Fork Stanislaus",
+        "difficulty": "Class IV-V",
+        "run name": "Donnells Alternative",
+        "link": "http://www.awetstate.com/MStanDo.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.846901,
+          38.351662
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Stanislaus",
+        "difficulty": "Class III+ to IV+",
+        "run name": "Goodwin Canyon",
+        "link": "http://www.awetstate.com/StanGC.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.634888,
+          37.859421
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Stony Creek",
+        "difficulty": "Class III-IV",
+        "run name": "",
+        "link": "http://www.awetstate.com/StonyCreek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.656136,
+          39.355236
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Little Sulphur Creek",
+        "difficulty": "",
+        "run name": "",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.818146,
+          38.764793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Tomki Creek",
+        "difficulty": "",
+        "run name": "",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.246109,
+          39.45631
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "East Branch of the North Fork of the Trinity River",
+        "difficulty": "",
+        "run name": "Lower",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.135117,
+          40.849533
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Trinity",
+        "difficulty": "",
+        "run name": "",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.156624,
+          40.924725
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "East Fork Trinity",
+        "difficulty": "",
+        "run name": "Mumbo Creek",
+        "link": "http://www.awetstate.com/ETrinity.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.55851,
+          41.122318
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Fork Trinity",
+        "difficulty": "",
+        "run name": "Klondike Mine",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.32888,
+          40.375813
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Fork Trinity",
+        "difficulty": "",
+        "run name": "Lower",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.495712,
+          40.663891
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Fork Trinity",
+        "difficulty": "Class IV to V",
+        "run name": "Three Bears",
+        "link": "http://awetstate.com/STrinityTB.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.558884,
+          40.788036
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Trinity",
+        "difficulty": "Class III+",
+        "run name": "Pigeon Point",
+        "link": "http://awetstate.com/TrinityPP.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.126457,
+          40.77034
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Trinity",
+        "difficulty": "Class IV to V-",
+        "run name": "Burnt Ranch",
+        "link": "http://awetstate.com/TrinityBRG.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.43811,
+          40.789722
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Trinity",
+        "difficulty": "Class IV to V-",
+        "run name": "Burnt Ranch, Alternate",
+        "link": "http://awetstate.com/TrinityBRG.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.458687,
+          40.796757
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Trinity",
+        "difficulty": "Class II",
+        "run name": "Hawkins Bar to Willow Creek",
+        "link": "http://www.awetstate.com/TrinityHB.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.528793,
+          40.87402
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Trinity",
+        "difficulty": "Class II+",
+        "run name": "Willow Creek to Tish Tang",
+        "link": "http://www.awetstate.com/TrinityWC.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.632751,
+          40.947701
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Trinity",
+        "difficulty": "Class II-III",
+        "run name": "Weitchpec Gorge",
+        "link": "http://www.awetstate.com/TrinityWG.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.690926,
+          41.105724
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "East Fork Trinity",
+        "difficulty": "",
+        "run name": "",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -122.569946,
+          41.137657
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Truckee",
+        "difficulty": "",
+        "run name": "Floriston",
+        "link": "http://www.awetstate.com/TruckeeF.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.024071,
+          39.386673
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Truckee",
+        "difficulty": "",
+        "run name": "Reno Whitewater Park",
+        "link": "http://www.awetstate.com/TruckeeR.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.817863,
+          39.524235
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "NFMF Tule Park and Huck",
+        "difficulty": "Class V",
+        "run name": "",
+        "link": "http://huckinhuge.com/Southern_and_Central_California_Story.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.696136,
+          36.175076
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "SFMF Tule",
+        "difficulty": "",
+        "run name": "",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.659294,
+          36.151981
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Middle Tule",
+        "difficulty": "",
+        "run name": "",
+        "link": "http://www.awetstate.com/MTule.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -118.707504,
+          36.162037
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Tully Creek",
+        "difficulty": "Class V",
+        "run name": "",
+        "link": "http://www.caliproduct.com/calisite.webpage/Templates/RUNS/TULLY.htm"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.831635,
+          41.191975
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Tuolumne",
+        "difficulty": "Class IV-V",
+        "run name": "Lower",
+        "link": "http://www.awetstate.com/NTuolumneL.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.206551,
+          37.982208
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Tuolumne",
+        "difficulty": "Class V- to V",
+        "run name": "Cherry Creek",
+        "link": "http://www.awetstate.com/TuolumneCC.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.971527,
+          37.895325
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Tuolumne",
+        "difficulty": "Class IV",
+        "run name": "Lower",
+        "link": "http://awetstate.com/TuolumneL.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.054115,
+          37.836433
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Van Duzen",
+        "difficulty": "",
+        "run name": "Goat Rock",
+        "link": "http://www.awetstate.com/VanDuzenGR.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.794281,
+          40.472313
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Upper West Walker",
+        "difficulty": "",
+        "run name": "",
+        "link": "http://www.awetstate.com/WWalkerU.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.55307,
+          38.331879
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "West Walker",
+        "difficulty": "Class III+ to IV+",
+        "run name": "Above Walker",
+        "link": "http://www.awetstate.com/WWalkerL.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -119.452728,
+          38.402802
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Weber Creek",
+        "difficulty": "",
+        "run name": "",
+        "link": "http://www.awetstate.com/WeberCreek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.845238,
+          38.722404
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Lower Willow Creek",
+        "difficulty": "",
+        "run name": "",
+        "link": ""
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.697937,
+          40.920086
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Willow Creek",
+        "difficulty": "",
+        "run name": "Carhood Section",
+        "link": "http://www.awetstate.com/WillowCreekCH.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -123.682487,
+          40.930634
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Wolf Creek",
+        "difficulty": "Class IV+",
+        "run name": "",
+        "link": "http://www.awetstate.com/WolfCreek.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.078011,
+          39.155396
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Yuba",
+        "difficulty": "Class IV-V",
+        "run name": "Love's Falls",
+        "link": "http://darinm.blogspot.com/2006/04/yuba-north-fork-loves-falls-v-v-last.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.608528,
+          39.585022
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Yuba",
+        "difficulty": "Class IV+ - V-",
+        "run name": "Wild Plum",
+        "link": "http://awetstate.com/NYubaWP.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.615387,
+          39.568455
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Yuba",
+        "difficulty": "Class IV+",
+        "run name": "Rosassco Canyon",
+        "link": "http://www.awetstate.com/NYubaRC.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.829765,
+          39.559593
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork Yuba",
+        "difficulty": "Class IV",
+        "run name": "Goodyear",
+        "link": "http://awetstate.com/NYubaG.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.878746,
+          39.542793
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "North Fork of the Yuba",
+        "difficulty": "Class III-IV",
+        "run name": "49 to New Bullards",
+        "link": "http://www.awetstate.com/NYuba49.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.982101,
+          39.511314
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Middle Fork Yuba",
+        "difficulty": "",
+        "run name": "Plumbago",
+        "link": "http://www.awetstate.com/MYubaP.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.812325,
+          39.437584
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "Middle Fork Yuba",
+        "difficulty": "Class IV - IV+",
+        "run name": "Our House Dam",
+        "link": "http://awetstate.com/MYubaOH.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.997551,
+          39.411312
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Fork Yuba",
+        "difficulty": "Class IV+",
+        "run name": "Summit",
+        "link": "http://awetstate.com/SYubaS.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.441254,
+          39.317226
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Fork Yuba",
+        "difficulty": "Class IV+",
+        "run name": "Summit Alternate",
+        "link": "http://awetstate.com/SYubaS.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.467445,
+          39.314686
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Fork Yuba",
+        "difficulty": "Class IV-V",
+        "run name": "East Meets West",
+        "link": "http://darinm.blogspot.com/2006/06/south-fork-yuba-east-meets-west-iv-v-v.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.542038,
+          39.310204
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Fork Yuba",
+        "difficulty": "Class IV+",
+        "run name": "Jolly Boys",
+        "link": "http://www.awetstate.com/SYubaJB.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.710587,
+          39.353649
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Fork Yuba",
+        "difficulty": "Class IV-IV+",
+        "run name": "Golden Quartz",
+        "link": "http://www.awetstate.com/SYubaGQ.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.74884,
+          39.358482
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Fork Yuba",
+        "difficulty": "Class V- to V",
+        "run name": "49 to Bridgeport",
+        "link": "http://awetstate.com/SYuba49.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -121.089508,
+          39.297844
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Fork Yuba",
+        "difficulty": "Class III-IV",
+        "run name": "Edwards to Purdens",
+        "link": "http://awetstate.com/SYubaEP.html"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.983269,
+          39.330357
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "river": "South Fork Yuba",
+        "difficulty": "Class III-IV",
+        "run name": "W to E",
+        "link": "http://www.awetstate.com/SYubaWE.html "
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -120.793663,
+          39.359856
+        ]
+      }
+    }
+  ]
+}
